@@ -6,7 +6,7 @@
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue"></a>
   <a href="https://colab.research.google.com/github/generalroboticslab/TSIL/blob/main/notebooks/TSIL_demo.ipynb"><img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-coming_soon-red">
-  <img alt="Paper" src="https://img.shields.io/badge/Paper-coming_soon-lightgrey">
+  <a href="https://arxiv.org/abs/2606.19752"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv%3A2606.19752-b31b1b"></a>
   <a href="https://generalroboticslab.com/TSIL"><img alt="Project Page" src="https://img.shields.io/badge/Project%20Page-TSIL-007ec6"></a>
 </p>
 
@@ -379,13 +379,16 @@ This work is supported by DARPA TIAMAT program under award HR00112490419, ARO un
 
 ## Citation
 
-BibTeX metadata will be updated once the public paper record is available.
+Please cite our paper if you find TSIL useful.
 
 ```bibtex
-@misc{temporalsil2026,
-  title        = {Temporal Self-Imitation Learning},
-  author       = {TSIL Authors},
-  year         = {2026},
-  note         = {Code release}
+@misc{jia2026temporalselfimitationlearning,
+      title={Temporal Self-Imitation Learning},
+      author={Yinsen Jia and Boyuan Chen},
+      year={2026},
+      eprint={2606.19752},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2606.19752},
 }
 ```
