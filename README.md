@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue"></a>
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Apache_2.0-blue"></a>
   <a href="https://colab.research.google.com/github/generalroboticslab/TSIL/blob/main/notebooks/TSIL_demo.ipynb"><img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
   <a href="https://www.youtube.com/watch?v=Nng0trpbqW8"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-video-red"></a>
   <a href="https://arxiv.org/abs/2606.19752"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv%3A2606.19752-b31b1b"></a>
@@ -362,8 +362,7 @@ results/
 
 ## License
 
-TSIL code is released under the Creative Commons
-Attribution-NonCommercial-NoDerivatives 4.0 International License. See
+TSIL code is released under the Apache License, Version 2.0. See
 [LICENSE](LICENSE) for the full license text.
 
 Bundled third-party components keep their own license terms:
