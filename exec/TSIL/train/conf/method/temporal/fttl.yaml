@@ -6,6 +6,6 @@ args:
   fix_linvel: true
   fix_limvel: true
   update_ddl: false
-  value_bootstrap: true
+  value_bootstrap: false
   successRewardScale: 0
   epstimeRewardScale: [100, 100]
